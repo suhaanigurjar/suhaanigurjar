@@ -11,4 +11,4 @@ suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)
-![](<img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />)
+<img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
