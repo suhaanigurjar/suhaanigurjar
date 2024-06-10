@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhaanigurjar
-- 👀 I’m interested in Competetive Programming and Artificial Intelligence
+- 👀 I’m interested in Competitive Programming and Artificial Intelligence
 - 🌱 I’m a pre-final year undergrad pursuing a Bachelor of Technology in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
