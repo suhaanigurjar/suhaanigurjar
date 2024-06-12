@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaanigurjar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<!---<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaanigurjar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />--->
 <!---<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?suhaanigurjar" frameborder="0"></iframe>--->
 <img src="https://github.com/suhaanigurjar/suhaanigurjar/blob/main/abc (1).jpg"/>
