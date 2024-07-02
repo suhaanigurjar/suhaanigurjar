@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @suhaanigurjar
-- 👀 I’m interested in Competitive Programming and Artificial Intelligence
-- 🌱 I’m a pre-final year undergrad pursuing a Bachelor of Technology in Information Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @suhaanigurjar!
+- 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
+- 🌱 I’m a final year undergrad pursuing a Bachelor of Technology in Information Technology.
+- 💞️ I’m looking to collaborate on innovative and impactful projects, especially those involving AI and Security.
+- 📫 How to reach me: suhanigurjar.it25@gmail.com | linkedin.com/in/suhanigurjar
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love solving puzzles and riddles in my spare time!
 <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!---
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
