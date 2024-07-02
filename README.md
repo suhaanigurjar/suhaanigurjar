@@ -1,4 +1,4 @@
-# Hi there, I’m @suhaanigurjar 👋🏼
+# Hey there, I’m Suhani Gurjar 👋🏼
 
 ## About Me
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
