@@ -4,9 +4,11 @@
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
 - 🌱 I’m a final year undergrad pursuing a Bachelor of Technology in Information Technology.
 - 💞️ I’m looking to collaborate on innovative and impactful projects, especially those involving AI and Security.
-- 📫 How to reach me: suhanigurjar.it25@gmail.com | linkedin.com/in/suhanigurjar
+- 📫 How to reach me: suhanigurjar.it25@gmail.com | [LinkedIn](https://www.linkedin.com/in/suhanigurjar)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love solving puzzles and riddles in my spare time!
+
+## GitHub Activity
 <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!---
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
