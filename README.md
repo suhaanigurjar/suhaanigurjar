@@ -10,6 +10,13 @@
 
 ## GitHub Activity
 <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+## Skills
+Languages: C/C++, Python, SQL, HTML
+Major Coursework: Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Operating Systems(OS), Computer Networks(CN), Database Management Systems(DBMS)
+Developer Tools: Git, GitHub, Linux, Google Cloud Platform, Jupyter, PyCharm, VS Code, Visual Studio, MySQL
+Frameworks/Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV, XGBoost, NLTK, Keras, PyTorch, TensorFlow
+Core Competencies: Communication, Content Writing, Decision Making, Public Speaking, Resilience, Teamwork
 <!---
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  
