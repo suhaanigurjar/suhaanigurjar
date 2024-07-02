@@ -12,7 +12,7 @@
 <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## Skills
-* Languages: C/C++, Python, SQL, HTML
+* Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
 * Major Coursework: Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Operating Systems(OS), Computer Networks(CN), Database Management Systems(DBMS)
 * Developer Tools: Git, GitHub, Linux, Google Cloud Platform, Jupyter, PyCharm, VS Code, Visual Studio, MySQL
 * Frameworks/Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV, XGBoost, NLTK, Keras, PyTorch, TensorFlow
