@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
-- 🌱 I’m a final year undergrad pursuing a Bachelor of Technology in Information Technology.
+- 🌱 I’m a final year undergrad pursuing a B.Tech. in Information Technology.
 - 💞️ I’m looking to collaborate on innovative and impactful projects, especially those involving AI and Security.
 - 📫 How to reach me: suhanigurjar.it25@gmail.com | [LinkedIn](https://www.linkedin.com/in/suhanigurjar)
 - 😄 Pronouns: she/her
