@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on innovative and impactful projects, especially those involving AI and Security.
 - 📫 How to reach me: suhanigurjar.it25@gmail.com | [LinkedIn](https://www.linkedin.com/in/suhanigurjar)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love solving puzzles and riddles in my spare time!
+- ⚡ Fun fact: I play the guitar and i swim too!
 
 ## GitHub Activity
 <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
