@@ -15,6 +15,8 @@
 
  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar&langs_count=8&layout=compact&theme=react"/>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
+
 ## Skills
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
 * Major Coursework: Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Operating Systems(OS), Computer Networks(CN), Database Management Systems(DBMS)
