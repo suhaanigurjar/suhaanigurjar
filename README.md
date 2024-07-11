@@ -1,6 +1,7 @@
-# Hey there, I’m Suhani Gurjar 👋🏼
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suhaanigurjar.suhaanigurjar" />
+# Hey there, I’m Suhani Gurjar 👋🏼   
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+
 
 ## About Me
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
