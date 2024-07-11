@@ -1,4 +1,5 @@
 # Hey there, I’m Suhani Gurjar 👋🏼   
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suhaanigurjar.suhaanigurjar" />
 
 ## About Me
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
