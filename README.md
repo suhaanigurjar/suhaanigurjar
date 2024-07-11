@@ -1,5 +1,8 @@
 # Hey there, I’m Suhani Gurjar 👋🏼
 
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+
 ## About Me
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
 - 🌱 I’m a final year undergrad pursuing a B.Tech. in Information Technology.
