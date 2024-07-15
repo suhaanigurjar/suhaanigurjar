@@ -26,7 +26,7 @@
 
 ## Tools and Technologies 🛠
 
-<table align="center">
+<table >
   
   <tr>
    <td align="center" width="96">
