@@ -27,7 +27,18 @@
 ## Tools and Technologies 🛠
 
 <table align="center">
+  
   <tr>
+   <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><br>C++
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
+   </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><br>Java
+    </td>
+    <tr>
     
    <td align="center" width="96">
      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
@@ -39,17 +50,6 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
     </td>
   </tr>
-  <tr>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><br>Java
-    </td>
-    
     
   </tr>
   <tr>
@@ -60,7 +60,7 @@
        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
     </td>
    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><br>RestAPI
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><br>REST API
     </td>
   </tr>
 </table>
