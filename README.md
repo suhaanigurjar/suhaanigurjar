@@ -32,9 +32,6 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
     </td>
     <td align="center" width="96">
@@ -46,9 +43,6 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
     </td>
     <td align="center" width="96">
@@ -56,9 +50,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Golang" /><br>Golang
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue.js    
     </td>
