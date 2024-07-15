@@ -89,11 +89,13 @@
   </tr>
 </table>
 
+
 <!---
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  
 
 --->
+##GitHub Stats ⚡️
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
 
