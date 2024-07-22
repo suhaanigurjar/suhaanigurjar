@@ -78,10 +78,10 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
 
 <!---<img src="https://ionicabizau.github.io/github-profile-languages/api.html?suhaanigurjar" />--->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaanigurjar&theme=github"/>
+
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhaanigurjar&theme=2077"/>-->
 <!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhaanigurjar&theme=2077"/>--->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github"/>
+
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suhaanigurjar&theme=2077&utcOffset=+5.30"/>--> <!--this one works, bas abhi no space so commented out-->
 
 
@@ -89,8 +89,8 @@ You can click the Preview link to take a look at your changes.
   
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaanigurjar&theme=github" alt="Profile Details" style="width:60%; display:inline-block;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:36%; display:inline-block;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaanigurjar&theme=github" alt="Profile Details" style="width:64%; display:inline-block;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:32%; display:inline-block;">
 </p>
 
 
