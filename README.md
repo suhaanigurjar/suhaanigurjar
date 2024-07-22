@@ -15,7 +15,7 @@
 
 <!---[![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
+
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
@@ -81,6 +81,7 @@ You can click the Preview link to take a look at your changes.
 <!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhaanigurjar&theme=2077"/>--->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github"/>
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suhaanigurjar&theme=2077&utcOffset=+5.30"/>--> <!--this one works, bas abhi no space so commented out-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
 
 <!---<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=suhaanigurjar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>--->
   
