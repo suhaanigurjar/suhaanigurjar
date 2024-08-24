@@ -41,7 +41,7 @@
 * Core Competencies: Communication, Content Writing, Decision Making, Public Speaking, Resilience, Teamwork
 
 ## Tools and Technologies 🛠
-
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <table align="center">
   
   <tr>
