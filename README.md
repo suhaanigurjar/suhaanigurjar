@@ -15,13 +15,13 @@
 
 <!---[![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
 
 <p>
   <a href="https://github.com/suhaanigurjar/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar" alt="Top Languages" style="width:66%; display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar" alt="Top Languages" style="width:50%; display:inline-block;">
   </a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:32%; display:inline-block;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:50%; display:inline-block;">
 </p>
 
 
