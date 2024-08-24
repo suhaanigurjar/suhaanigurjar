@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar&layout=pie)](https://github.com/suhaanigurjar/github-readme-stats)
 
-
+[![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
