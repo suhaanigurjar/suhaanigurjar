@@ -30,10 +30,9 @@
 
 
 
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=percentile)
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github)
 &hide_rank=true
 &hide_title=true
-&rank_icon=percentile or github
 &include_all_commits=true
 &custom_title
 ## Skills 💡
