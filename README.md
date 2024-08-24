@@ -30,6 +30,8 @@
 
 [![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats &hide=stars &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?usernamesuhaanigurjar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
 * Major Coursework: Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Operating Systems(OS), Computer Networks(CN), Database Management Systems(DBMS)
