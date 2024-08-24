@@ -18,9 +18,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
 
 <p>
-<img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85" alt="reimaginedreadme" style="width:66%; display:inline-block;"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:32%; display:inline-block;">
+  <a href="https://github.com/suhaanigurjar/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar" alt="Top Languages" style="width:66%; display:inline-block;">
+  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:32%; display:inline-block;">
 </p>
+
 
 
 ## Skills 💡
