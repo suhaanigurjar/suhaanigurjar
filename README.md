@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I play guitar and i swim too!
 
 ## GitHub Activity 👩🏻‍💻
-<img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85" alt="reimaginedreadme" />
 
 <!---<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaanigurjar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"  />--->
 
