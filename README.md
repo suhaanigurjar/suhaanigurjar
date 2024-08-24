@@ -30,7 +30,7 @@
 
 
 
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews)
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true)
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
