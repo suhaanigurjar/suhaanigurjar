@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
   
 
 <p >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaanigurjar&theme=github" alt="Profile Details" style="width:66%; display:inline-block;">
+  <!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaanigurjar&theme=github" alt="Profile Details" style="width:66%; display:inline-block;">--->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:32%; display:inline-block;">
 </p>
 
