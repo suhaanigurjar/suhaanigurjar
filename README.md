@@ -13,7 +13,7 @@
 
 ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaanigurjar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"  />--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaanigurjar&show_icons=true&locale=en&layout=compact"  />--->
 
 <!---[![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
 
