@@ -11,18 +11,14 @@
 ## GitHub Activity 👩🏻‍💻
 <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85" alt="reimaginedreadme" />
 
-
-  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
-
-
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
-
 <div style="display: flex; justify-content: space-between;">
   
   ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
   
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 </div>
+
+![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85)
 
 
 
