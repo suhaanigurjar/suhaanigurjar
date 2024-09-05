@@ -18,10 +18,11 @@
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
 
 <div style="display: flex; justify-content: space-between;">
-
+  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite" alt="Profile Summary Stats" />
+  ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 </div>
+
 
 
 
