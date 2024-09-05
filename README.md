@@ -9,23 +9,16 @@
 - ⚡ Fun fact: I play guitar and i swim too!
 
 ## GitHub Activity 👩🏻‍💻
-<img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85" alt="reimaginedreadme" />
+
+![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85)
 
 <div style="display: flex; justify-content: space-between;">
   
   ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
   
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
+  
 </div>
-
-![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph&bg_color=DEG,#000000,#240F85)
-
-
-
-
-
-
-
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
@@ -35,7 +28,6 @@
 * Core Competencies: Communication, Content Writing, Decision Making, Public Speaking, Resilience, Teamwork
 
 ## Tools and Technologies 🛠
-
 
 <table align="left">
   
@@ -76,10 +68,16 @@
   </tr>
 </table>
 
-
 <!---
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  --->
+
+
+
+
+
+
+
 <!---## GitHub Stats ⚡️--->
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
