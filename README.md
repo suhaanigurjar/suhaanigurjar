@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suhaanigurjar.suhaanigurjar" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suhaanigurjar.suhaanigurjar"/>
 
 # Hey there, I’m Suhani Gurjar 👋🏼   
 
