@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaishaliisingh.vaishaliisingh" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suhaanigurjar.suhaanigurjar" />
+
 # Hey there, I’m Suhani Gurjar 👋🏼   
 
 ## About Me ✨
