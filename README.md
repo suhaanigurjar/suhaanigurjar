@@ -13,9 +13,11 @@
 
 ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite">
+
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)--->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&show=reviews&theme=graywhite&hide=stars,prs" alt="Stats">
+
 
 
 
