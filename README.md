@@ -15,14 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-stats)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats">
 
-
-<p>
-  <a href="https://github.com/suhaanigurjar/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaanigurjar&layout=compact" alt="Top Languages" style="width:48%; display:inline-block;">
-  </a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:34%; display:inline-block;">
-</p>--->
 
 
 
