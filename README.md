@@ -2,9 +2,10 @@
 
 # Hey there, I’m Suhani Gurjar 👋🏼   
 
-<a href="https://github.com/teplostanski" target="_blank">
+<h1><a href="https://github.com/teplostanski" target="_blank">
       Игорь
-    </a> 
+    </a> </h1>
+    
 
 ## About Me ✨
 - 👀 I’m interested in Competitive Programming, Artificial Intelligence, Cyber Security and some Backend Development.
