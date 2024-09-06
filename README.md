@@ -26,8 +26,8 @@
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
 * Major Coursework: Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Operating Systems(OS), Computer Networks(CN), Database Management Systems(DBMS)
 * Developer Tools: Git, GitHub, Linux, Google Cloud Platform, Jupyter, PyCharm, VS Code, Visual Studio, MySQL
-* Frameworks/Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV, XGBoost, NLTK, Keras, PyTorch, TensorFlow
-* Core Competencies: Communication, Content Writing, Decision Making, Public Speaking, Resilience, Teamwork
+* Frameworks/Libraries: Pandas, NumPy, Scikit-learn, OpenCV, NLTK
+* Core Competencies: Adaptability, Communication, Content Writing, Decision Making, Public Speaking, Teamwork
 
 ## Tools and Technologies 🛠
 
