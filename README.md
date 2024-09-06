@@ -107,5 +107,5 @@ You can click the Preview link to take a look at your changes.  --->
 <!---<img src="https://github.com/suhaanigurjar/suhaanigurjar/blob/main/abc (1).jpg"/>--->
 
 <div align="end">
-  <img src="https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=07912E">
+  <img src="https://komarev.com/ghpvc/?username=suhaanigurjar&style=for-the-badge&color=07912E">
 </div>
