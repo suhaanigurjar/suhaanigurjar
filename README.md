@@ -20,7 +20,7 @@
   
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 
-  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=dracula")](https://github.com/suhaanigurjar/github-readme-activity-graph)
   
 </div>
 
