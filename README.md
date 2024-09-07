@@ -21,6 +21,9 @@
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=dracula)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+
+  <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar"><img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" width="600" /></a>
+
   
 </div>
 
