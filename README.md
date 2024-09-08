@@ -27,7 +27,7 @@
   
 </div>
 
-  <!---<a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">--->
+  <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
 
 ## Skills 💡
