@@ -28,7 +28,7 @@
 </div>
 
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" width="600" /> </a>
+  <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
