@@ -20,8 +20,7 @@
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
   
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=dracula)](https://github.com/suhaanigurjar/github-readme-activity-graph)
- <div style="display: flex; justify-content: space-between;">
-</div>
+
 
 
 ## Skills 💡
