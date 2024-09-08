@@ -16,7 +16,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   
-  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars,prs&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
+  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
   
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 
