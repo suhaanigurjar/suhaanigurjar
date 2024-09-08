@@ -19,7 +19,7 @@
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
   
-  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=dracula)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+
 
 
 
@@ -88,6 +88,10 @@ You can click the Preview link to take a look at your changes.  --->
   
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 
+## Contribution Graph 📈
+
+  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=dracula)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
 
@@ -104,7 +108,7 @@ You can click the Preview link to take a look at your changes.  --->
 <!---<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=suhaanigurjar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>--->
   
 
-<p>
+<!--<p>-->
   <!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaanigurjar&theme=github" alt="Profile Details" style="width:66%; display:inline-block;">--->
   <!---<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=github" alt="Stats" style="width:32%; display:inline-block;">--->
 
