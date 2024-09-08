@@ -14,17 +14,13 @@
 
 <!---![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph)--->
 
-<div style="display: flex; justify-content: space-between;">
-  
-  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
-  
-  ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
+
 
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
   
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=dracula)](https://github.com/suhaanigurjar/github-readme-activity-graph)
- 
+ <div style="display: flex; justify-content: space-between;">
 </div>
 
 
@@ -86,7 +82,13 @@ You can click the Preview link to take a look at your changes.  --->
 
 
 
-<!---## GitHub Stats ⚡️--->
+## GitHub Stats ⚡️
+
+  
+  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
+  
+  ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
+
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
 
