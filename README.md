@@ -30,13 +30,6 @@
 * Frameworks/Libraries: Pandas, NumPy, Scikit-learn, OpenCV, NLTK
 * Core Competencies: Adaptability, Communication, Content Writing, Decision Making, Public Speaking, Teamwork
 
-## GitHub Stats ⚡️
-
-  
-  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
-  
-  ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
-
 ## Tools and Technologies 🛠
 
 <table align="left">
@@ -84,10 +77,12 @@ You can click the Preview link to take a look at your changes.  --->
 
 
 
+## GitHub Stats ⚡️
 
-
-
-
+  
+  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_border=true)
+  
+  ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 
 
 ## Contribution Graph 📈
