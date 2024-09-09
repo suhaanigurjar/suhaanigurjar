@@ -12,7 +12,7 @@
 
 ## GitHub Activity 👩🏻‍💻
 
-[Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 
 
