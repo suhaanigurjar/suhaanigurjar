@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.  --->
 
 ## Contribution Graph 📈
 
-  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=react_dark)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=react-dark)](https://github.com/suhaanigurjar/github-readme-activity-graph)
 
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
