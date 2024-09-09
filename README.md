@@ -14,7 +14,7 @@
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar)
 ![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph)
-<p align="center">
+<p>
   <img src="https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar" alt="Contribution Stats" style="width:30%;" />
   <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph" alt="Reimagined Readme" style="width:70%;" />
 </p>
