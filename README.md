@@ -31,7 +31,7 @@
 * Core Competencies: Adaptability, Communication, Content Writing, Decision Making, Public Speaking, Teamwork
 
 ## Tools and Technologies 🛠
-
+<div style="clear:both;">
 <table align="left">
   
   <tr>
@@ -70,6 +70,7 @@
     </td>
   </tr>
 </table>
+</div>
 <br>
 <!---
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
