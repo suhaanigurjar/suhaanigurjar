@@ -19,7 +19,7 @@
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
   
-![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]<!--(https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)-->
+![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)<!--(https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)-->
 
 
 
