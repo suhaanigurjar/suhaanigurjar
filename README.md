@@ -32,7 +32,7 @@
 
 ## Tools and Technologies 🛠
 <div style="clear:both;">
-<table align="centre">
+<table align="left">
   
   <tr>
    <td align="center" width="96">
