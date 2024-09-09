@@ -12,12 +12,11 @@
 
 ## GitHub Activity 👩🏻‍💻
 
-![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar)
+![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph)
 
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
-
-  ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar)
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
