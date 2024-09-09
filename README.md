@@ -32,7 +32,7 @@
 
 ## Tools and Technologies 🛠
 <div style="clear:both;">
-<table align="left">
+<table>
   
   <tr>
    <td align="center" width="96">
@@ -76,7 +76,7 @@
 suhaanigurjar/suhaanigurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  --->
 
----
+
 
 ## GitHub Stats ⚡️
 
