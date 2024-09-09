@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.  --->
 ## GitHub Stats ⚡️
 
   
-  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&theme=ambient_gradient&hide_border=true)
+  ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=graywhite&hide_border=true)
   
   ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar&theme=graywhite)
 
