@@ -14,7 +14,10 @@
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar)
 ![Reimagined Readme](https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph)
-
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar" alt="Contribution Stats" style="width:45%; margin-right:10px;" />
+  <img src="https://myreadme.vercel.app/api/embed/suhaanigurjar?panels=toprepositories,toplanguages,commitgraph" alt="Reimagined Readme" style="width:45%;" />
+</p>
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
 
