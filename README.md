@@ -17,7 +17,7 @@
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
 
-  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar)](https://github.com/LordDashMe/github-contribution-stats/)
+  ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suhaanigurjar)
 
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
