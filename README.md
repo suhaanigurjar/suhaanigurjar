@@ -17,6 +17,8 @@
   <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar">
   <img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>
 
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ## Skills 💡
 * Languages: C/C++, Python, SQL, HTML, CSS, JavaScript
 * Major Coursework: Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Operating Systems(OS), Computer Networks(CN), Database Management Systems(DBMS)
