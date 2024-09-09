@@ -73,6 +73,7 @@ You can click the Preview link to take a look at your changes.  --->
 
 <!--![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=ambient_gradient&hide_border=true)-->
 ![Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaanigurjar)
+<br>
 ![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaanigurjar&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide_border=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
 <!---## Extended Stats <a href="https://stats.hyochan.dev/en/stats/suhaanigurjar"><img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> </a>--->
 
