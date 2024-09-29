@@ -78,6 +78,9 @@ You can click the Preview link to take a look at your changes.  --->
 
 [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaanigurjar&theme=tokyo-night)](https://github.com/suhaanigurjar/github-readme-activity-graph)
 
+## Badges 🎯
+
+[![@jiyanpatil07's Holopin board](https://holopin.me/jiyanpatil07)](https://holopin.io/@jiyanpatil07)
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
 <!--<a href="https://stats.hyochan.dev/en/stats/suhaanigurjar"><img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> -->
