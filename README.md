@@ -80,7 +80,8 @@ You can click the Preview link to take a look at your changes.  --->
 
 ## Badges 🎯
 
-[![@jiyanpatil07's Holopin board](https://holopin.me/jiyanpatil07)](https://holopin.io/@jiyanpatil07)
+[![An image of @suhaanigurjar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suhaanigurjar)](https://holopin.io/@suhaanigurjar)
+
 <!---[](https://github.com/suhaanigurjar/suhaanigurjar/blob/main/asci_page-0001.jpg)--->
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaanigurjar&theme=tokyonight" alt="mystreak"/>--->
 <!--<a href="https://stats.hyochan.dev/en/stats/suhaanigurjar"><img src="https://stats.hyochan.dev/api/github-stats?login=suhaanigurjar" /> -->
